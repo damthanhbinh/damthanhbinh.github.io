@@ -182,8 +182,8 @@ Version: 1.0.0
 		font-weight: 400;
 	}
 	.btn:hover{
-		border-color: #362cb1;
-		color: #362cb1;
+		border-color: #2A363B;
+		color: #2A363B;
 	}
 
 /* TEXT TRANSFORM */
@@ -285,7 +285,7 @@ Version: 1.0.0
 		content: "";
 		height: 12px;
 		width: 12px;
-		background: #362cb1;
+		background: #2A363B;
 		border-radius: 50%;
 		bottom: 0;
 		transform: translateY(50%);
@@ -309,7 +309,7 @@ SIDEBAR AREA CSS
 ----------------------*/
 	aside.nav_sidebar{
 		width: 170px;
-		background: #372db4;
+		background:#2A363B;
 	}
 	.site{
 		height: 100%;
@@ -321,7 +321,7 @@ SIDEBAR AREA CSS
 	}
 	.toggle_icon span {
 		font-size: 26px;
-		color: #8f86f9;
+		color: #E84A5F;
 		-webkit-transition: 0.3s;
 		-moz-transition: 0.3s;
 		-ms-transition: 0.3s;
@@ -390,7 +390,7 @@ SIDEBAR AREA CSS
 		/*text-align: center;*/
 	/*}*/
 	.main_menu	ul li + li{
-		border-top: 1px solid #493fc8;
+		border-top: 1px solid #E84A5F;
 	}
 	.main_menu	>ul >li span {
 		font-size: 26px;
@@ -435,7 +435,7 @@ SIDEBAR AREA CSS
 	.main_menu	>ul >li a,
 	.main_menu	>ul >li span,
 	.main_menu	>ul >li p{
-		color: #b5b0f7;
+		color: #99B898;
 		-webkit-transition: 0.3s;
 		-moz-transition: 0.3s;
 		-ms-transition: 0.3s;
@@ -452,7 +452,7 @@ SIDEBAR AREA CSS
 	.main_menu > ul >li:before {
 		position: absolute;
 		content: '';
-		border-left: 60px solid #493fc8;
+		border-left: 60px solid #E84A5F;
 		border-top: 45px solid transparent;
 		border-bottom: 45px solid transparent;
 		z-index: -1;
@@ -461,7 +461,7 @@ SIDEBAR AREA CSS
 		text-align: center;
 		padding: 5px;
 		width: 100%;
-		background: #493fc8;
+		background: #E84A5F;
 		border-radius: 22px;
 		margin-bottom: 20px;
 		margin-top: 20px;
@@ -479,7 +479,7 @@ SIDEBAR AREA CSS
 	.social ul li > a>span{
 		font-size: 14px;
 		line-height: 24px;
-		color: #b5b0f7;
+		color: #99B898;
 	}
 
 
@@ -733,7 +733,7 @@ RESUME AREA
 		width: 50px;
 		text-align: center;
 		background: #ffffff;
-		color: #372db4;
+		color: #2A363B;
 		border-radius: 50%;
 	}
 	.resume_are_title span,
@@ -777,7 +777,7 @@ RESUME AREA
 	    height: 16px;
 	    width: 16px;
 	    background: #fff;
-	    border: 2px solid #362cb2;
+	    border: 2px solid #2A363B;
 	}
 	.time_period{
 		padding-bottom: 6px;
@@ -900,7 +900,7 @@ SERVICE AREA
 	.dots{
 		height: 12px;
 		width: 12px;
-		background: #362cb1;
+		background: #2A363B;
 		display: inline-block;
 		position: absolute;
 		border-radius: 50px;
@@ -1044,10 +1044,10 @@ PORTFOLIO AREA
 		display: inline-block;
 	}
 	.single_portfolio_item .classless .icon:hover span{
-		color: #362cb1;
+		color: #2A363B;
 	}
 	.single_portfolio_item .classless .icon:hover:before{
-		border-color: #362cb1;
+		border-color: #2A363B;
 	}
 
 	.single_portfolio_item .classless .icon:before {
@@ -1119,7 +1119,7 @@ BLOG AREA
 		padding: 27px 30px;
 	}
 	.blog_content a:hover h4{
-		color: #362cb1;
+		color: #2A363B;
 	}
 	.single_blog figure img{
 		width: 100%;
@@ -1130,7 +1130,7 @@ BLOG AREA
 		padding-bottom: 6px;
 	}
 	.blog_content a:hover h4{
-		color: #362cb1;
+		color: #2A363B;
 	}
 	.blog_content .date{
 		padding-bottom: 5px;
@@ -1202,7 +1202,7 @@ CONTACT AREA
 	color: #35373e;
 }
 .contact_form_wrapper button.btn:hover{
-	color: #362cb1;
+	color: #2A363B;
 }
 .contact_info .info_title {
 	color: #000;
@@ -1555,7 +1555,7 @@ SINGLE BLOG PAGE
 		color: #8b8b8b;
 	}
 	.blog_search .blog_search_btn span.fa:hover{
-		color: #362cb1;
+		color: #2A363B;
 	}
 
 	.blog_search .blog_search_btn{
@@ -1605,7 +1605,7 @@ SINGLE BLOG PAGE
 		font-weight: 400;
 	}
 	.recent_posts_list li .post_info .title:hover{
-		color: #362cb1;
+		color: #2A363B;
 	}
 	.recent_posts_list li .post_info .meta span{
 		color: #000000;
@@ -1715,8 +1715,8 @@ SINGLE PORTFOLIO PAGE
 		border: 2px solid #000000;
 	}
 	.project_btn:hover{
-		color: #362cb1;
-		border-color: #361cb1;
+		color: #2A363B;
+		border-color: #2A363B;
 	}
 	.project_social{
 		margin-top: 23px;
@@ -1740,7 +1740,7 @@ SINGLE PORTFOLIO PAGE
 		transition: 0.3s;
 	}
 	.project_social ul li a:hover{
-		color: #362cb1;
+		color: #2A363B;
 	}
 	.project_img_slide_wrapper {
 		position: relative;
